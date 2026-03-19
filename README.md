@@ -1,2 +1,3 @@
-# calc-snap-3xr1
-build a calculator in html
+# App
+
+Built by [Agent Switch](https://theswitchai.com/code).
